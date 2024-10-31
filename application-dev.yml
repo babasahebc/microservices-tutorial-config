@@ -1,4 +1,4 @@
-
+profile:DEV
 eureka:
   instance:
     prefer-ip-address: true
